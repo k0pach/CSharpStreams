@@ -1,0 +1,7 @@
+C:\Base\Programming\C#\BaranovaAlina\Laba7_2.0\Laba7_2.0\bin\Debug\Laba7_2.0.exe.config
+C:\Base\Programming\C#\BaranovaAlina\Laba7_2.0\Laba7_2.0\bin\Debug\Laba7_2.0.exe
+C:\Base\Programming\C#\BaranovaAlina\Laba7_2.0\Laba7_2.0\bin\Debug\Laba7_2.0.pdb
+C:\Base\Programming\C#\BaranovaAlina\Laba7_2.0\Laba7_2.0\obj\Debug\Laba7_2.0.csproj.AssemblyReference.cache
+C:\Base\Programming\C#\BaranovaAlina\Laba7_2.0\Laba7_2.0\obj\Debug\Laba7_2.0.csproj.CoreCompileInputs.cache
+C:\Base\Programming\C#\BaranovaAlina\Laba7_2.0\Laba7_2.0\obj\Debug\Laba7_2.0.exe
+C:\Base\Programming\C#\BaranovaAlina\Laba7_2.0\Laba7_2.0\obj\Debug\Laba7_2.0.pdb
